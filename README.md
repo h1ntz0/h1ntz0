@@ -108,16 +108,16 @@ I build tools that live in the terminal and bots that make life easier. If it ca
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=react-dark&bg_color=0d1117&hide_border=true&color=FF6B6B&line=FF6B6B&point=FF6B6B" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@ I build tools that live in the terminal and bots that make life easier. If it ca
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/h1ntz0/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/h1ntz0/count.svg" alt="👀 Visitor Count" />
 </p>
 
 ---
