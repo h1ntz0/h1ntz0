@@ -107,9 +107,14 @@ I build tools that live in the terminal and bots that make life easier. If it ca
 
 ## 📊 GitHub Analytics
 
+<!--
+  Stats cards use the github-readme-stats-rho mirror because the official
+  github-readme-stats.vercel.app instance is intermittently down (503).
+  Switch back by replacing github-readme-stats-rho with github-readme-stats.
+-->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-rho.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -125,7 +130,7 @@ I build tools that live in the terminal and bots that make life easier. If it ca
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/h1ntz0/count.svg" alt="👀 Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=h1ntz0&style=flat-square&color=FF6B6B&label=Profile%20Views" alt="👀 Visitor Count" />
 </p>
 
 ---
