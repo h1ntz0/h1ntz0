@@ -1,4 +1,4 @@
-# Hi there, I'm h1ntz0 👋
+# Hi there, I'm Zein 👋
 
 Backend Developer who loves building CLI tools and Telegram bots. Currently learning Go and improving my Python skills.
 
