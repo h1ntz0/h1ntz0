@@ -3,7 +3,7 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
 │  ▸ zein@h1ntz0:~$ whoami                                  │
-│    Zein — Backend Developer | CLI & Bot Builder           │
+│    Zein — Quality Assurance Tester | CLI & Bot Builder           │
 │  ▸ zein@h1ntz0:~$ cat focus.txt                           │
 │    Go · Python · Clean APIs · Telegram Bots               │
 │  ▸ zein@h1ntz0:~$ echo $STATUS                            │
@@ -13,7 +13,7 @@
 
 # 👋 Hi, I'm Zein
 
-### 🚀 Backend Developer | CLI & Bot Builder
+### 🚀 Quality Assurance Tester | CLI & Bot Builder
 
 I build tools that live in the terminal and bots that make life easier. If it can be done from the CLI, I'll probably build it there. ☕
 
@@ -25,7 +25,7 @@ I build tools that live in the terminal and bots that make life easier. If it ca
 
 ## 📌 About Me
 
-- 💻 **Backend Developer** — focus on **Go**, **Python**, and clean API design
+- 💻 **Quality Assurance Tester** — focus on **Go**, **Python**, and clean API design
 - 🤖 Building **Telegram bots** with python-telegram-bot, Pillow & SQLite
 - 🛠️ **Terminal enthusiast** — productivity belongs in the terminal
 - 🌱 Currently learning: Go concurrency, deployment, and system design
