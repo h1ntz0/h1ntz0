@@ -3,7 +3,7 @@
 ```
 ┌──────────────────────────────────────────────────────────┐
 │  ▸ zein@h1ntz0:~$ whoami                                  │
-│    Zein — Quality Assurance Tester | CLI & Bot Builder           │
+│    Zein — Quality Assurance Tester | CLI & Bot Builder    │
 │  ▸ zein@h1ntz0:~$ cat focus.txt                           │
 │    Go · Python · Clean APIs · Telegram Bots               │
 │  ▸ zein@h1ntz0:~$ echo $STATUS                            │
