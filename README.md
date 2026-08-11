@@ -1,44 +1,61 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=44&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Hi+%F0%9F%91%8B+I'm+Zein;Quality+Assurance+Engineer;Test+Automation+%E2%9C%85" alt="Typing SVG" />
+<!-- Animated Background Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,20:161b22,40:1f6feb,60:58a6ff,80:1f6feb,100:0a0e17&height=280&section=header&text=Hi%20👋%20I'm%20Zein&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=QA%20Engineer%20%7C%20Test%20Automation%20%7C%20CI/CD&descSize=20&descAlign=center&fontAlignY=35&descAlignY=55" alt="Header"/>
 
 </div>
 
 <br>
 
+<!-- Profile Views & Badges -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=h1ntz0&style=for-the-badge&color=FF6B6B&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=h1ntz0&style=for-the-badge&color=FF6B6B&label=Profile%20Views&count_private=true)
 ![GitHub followers](https://img.shields.io/github/followers/h1ntz0?style=for-the-badge&color=58A6FF&label=Followers)
 ![GitHub stars](https://img.shields.io/github/stars/h1ntz0?style=for-the-badge&color=FFD700&label=Stars)
+![GitHub forks](https://img.shields.io/github/forks/h1ntz0?style=for-the-badge&color=2ea44f&label=Forks)
 
 </div>
 
 <br>
 
+<!-- Typing Animation -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=Hi+there!+I'm+Zein+%F0%9F%91%8B;Quality+Assurance+Engineer+%E2%9C%85;Test+Automation+Specialist+%F0%9F%A7%A0;Building+Quality+One+Test+at+a+Time!+%F0%9F%9A%80)
+
+</div>
+
+<br>
+
+---
+
+<!-- Terminal Card -->
 <div align="center">
 
 ```bash
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  $ whoami                                                           │
-│  ─────────────────────────────────────────────────────────────────  │
-│  Name     : Zein                                                    │
-│  Role     : QA Engineer · Test Automation Specialist                 │
-│  Mission  : Ship quality software with zero tolerance for bugs      │
-│                                                                     │
-│  $ cat skills.txt                                                   │
-│  ─────────────────────────────────────────────────────────────────  │
-│  ▸ Test Automation (Python, Go)                                     │
-│  ▸ API Testing (REST, GraphQL)                                      │
-│  ▸ CI/CD Pipelines (GitHub Actions, Docker)                         │
-│  ▸ Bot Development (Telegram)                                       │
-│                                                                     │
-│  $ echo "Building quality one test at a time"                       │
-│  Building quality one test at a time ✓                              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ┌─[zein@h1ntz0]─[~]────────────────────────────────────────────────┐  │
+│  │                                                                   │  │
+│  │  $ whoami                                                         │  │
+│  │  ─────────────────────────────────────────────────────────────    │  │
+│  │  Name     : Zein                                                  │  │
+│  │  Role     : QA Engineer · Test Automation Specialist               │  │
+│  │  Mission  : Ship quality software with zero tolerance for bugs    │  │
+│  │                                                                   │  │
+│  │  $ ls -la /skills/                                                │  │
+│  │  ─────────────────────────────────────────────────────────────    │  │
+│  │  drwxr-xr-x  1 Python, Go         Test Automation                │  │
+│  │  drwxr-xr-x  1 Postman, curl      API Testing                   │  │
+│  │  drwxr-xr-x  1 Docker, GHA        CI/CD Pipelines               │  │
+│  │  drwxr-xr-x  1 Puppeteer          Browser Automation            │  │
+│  │  drwxr-xr-x  1 Telegram Bot       Bot Development               │  │
+│  │                                                                   │  │
+│  │  $ echo "Building quality one test at a time"                     │  │
+│  │  Building quality one test at a time ✓                            │  │
+│  │                                                                   │  │
+│  └─[exit 0]─────────────────────────────────────────────────────────┘  │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -47,46 +64,76 @@
 
 ---
 
-<br>
-
-## 💡 What I Do
-
+<!-- Skills Section -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=21&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Automate+Testing.;Validate+APIs.;Build+CI/CD+Pipelines.;Ship+Quality+Software.)
+## 🛠️ Tech Stack & Skills
 
 </div>
 
 <br>
 
----
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+      <br><b>Python</b>
+      <br><sub>Test Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
+      <br><b>Go</b>
+      <br><sub>Backend Tools</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+      <br><b>JavaScript</b>
+      <br><sub>Automation</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+      <br><b>Bash</b>
+      <br><sub>Scripting</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+      <br><b>Docker</b>
+      <br><sub>Containers</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+      <br><b>PostgreSQL</b>
+      <br><sub>Database</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+      <br><b>Git</b>
+      <br><sub>Version Control</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+      <br><b>Linux</b>
+      <br><sub>OS</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
-## 🧰 Tech Stack
-
+<!-- Badges -->
 <div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=pulse)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&animation=pulse)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=pulse)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&animation=pulse)
-
-**Testing & Automation**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&animation=pulse)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-404E49?style=for-the-badge&logo=puppeteer&logoColor=white&animation=pulse)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&animation=pulse)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&animation=pulse)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&animation=pulse)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&animation=pulse)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&animation=pulse)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=pulse)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&animation=pulse)
 
 </div>
 
@@ -94,15 +141,31 @@
 
 ---
 
-<br>
+<!-- GitHub Stats Section -->
+<div align="center">
 
 ## 📊 GitHub Analytics
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Using ghstats.dev (token-free, working) -->
+
+<a href="https://github.com/h1ntz0">
+  <img src="https://ghstats.dev/api/card?username=h1ntz0&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/h1ntz0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://ghstats.dev/api/langs?username=h1ntz0&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
@@ -111,13 +174,18 @@
 
 ---
 
-<br>
+<!-- Trophies -->
+<div align="center">
 
 ## 🏆 GitHub Trophies
 
+</div>
+
+<br>
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=h1ntz0&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=h1ntz0&theme=algolia&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -125,13 +193,18 @@
 
 ---
 
-<br>
+<!-- Streak Stats -->
+<div align="center">
 
-## 🔥 Streak Stats
+## 🔥 Contribution Streak
+
+</div>
+
+<br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.herokuapp.com?user=h1ntz0&theme=onedark&hide_border=true&fire=FF6B6B&ring=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.home.serpro.dev?user=h1ntz0&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -139,22 +212,46 @@
 
 ---
 
+<!-- Activity Graph -->
+<div align="center">
+
+## 📈 Activity Graph
+
+</div>
+
 <br>
+
+<div align="center">
+
+![Contribution Graph](https://ghchart.rshah.org/h1ntz0)
+
+</div>
+
+<br>
+
+---
+
+<!-- Featured Projects -->
+<div align="center">
 
 ## 🚀 Featured Projects
+
+</div>
+
+<br>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td width="50%">
       <a href="https://github.com/h1ntz0/Todo-cli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Todo-cli&theme=tokyonight&hide_border=true" alt="Todo-cli" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=h1ntz0&repo=Todo-cli&theme=tokyonight&hide_border=true" alt="Todo-cli" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td width="50%">
       <a href="https://github.com/h1ntz0/telegram-sticker-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=telegram-sticker-bot&theme=tokyonight&hide_border=true" alt="telegram-sticker-bot" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=h1ntz0&repo=telegram-sticker-bot&theme=tokyonight&hide_border=true" alt="telegram-sticker-bot" />
       </a>
     </td>
   </tr>
@@ -166,39 +263,14 @@
 
 ---
 
-<br>
-
-## 🎯 Currently Working On
-
+<!-- Connect Section -->
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=FFFFFF&area=true&area_color=FF6B6B&hide_border=true)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 💭 QA Philosophy
-
-<div align="center">
-
-> *"Quality is not an act, it is a habit."* — Aristotle
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 📫 Connect With Me
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -213,13 +285,12 @@
 
 ---
 
-<br>
-
-## 📈 Contribution Graph
-
+<!-- Quote Section -->
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/h1ntz0)
+## 💭 QA Philosophy
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -227,10 +298,9 @@
 
 ---
 
+<!-- Footer -->
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e17,20:161b22,40:1f6feb,60:58a6ff,80:1f6feb,100:0a0e17&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff)
 
 </div>
