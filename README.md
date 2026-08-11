@@ -30,33 +30,31 @@
 
 ---
 
-<!-- Terminal Card -->
+<!-- About Me -->
 <div align="center">
 
-```bash
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ┌─[zein@h1ntz0]─[~]────────────────────────────────────────────────┐  │
-│  │                                                                   │  │
-│  │  $ whoami                                                         │  │
-│  │  ─────────────────────────────────────────────────────────────    │  │
-│  │  Name     : Zein                                                  │  │
-│  │  Role     : QA Engineer · Test Automation Specialist               │  │
-│  │  Mission  : Ship quality software with zero tolerance for bugs    │  │
-│  │                                                                   │  │
-│  │  $ ls -la /skills/                                                │  │
-│  │  ─────────────────────────────────────────────────────────────    │  │
-│  │  drwxr-xr-x  1 Python, Go         Test Automation                │  │
-│  │  drwxr-xr-x  1 Postman, curl      API Testing                   │  │
-│  │  drwxr-xr-x  1 Docker, GHA        CI/CD Pipelines               │  │
-│  │  drwxr-xr-x  1 Puppeteer          Browser Automation            │  │
-│  │  drwxr-xr-x  1 Telegram Bot       Bot Development               │  │
-│  │                                                                   │  │
-│  │  $ echo "Building quality one test at a time"                     │  │
-│  │  Building quality one test at a time ✓                            │  │
-│  │                                                                   │  │
-│  └─[exit 0]─────────────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+## 👨‍💻 About Me
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🎯 Role | 🔧 Focus | 🛠️ Tools |
+|:---:|:---:|:---:|
+| **QA Engineer** | Test Automation | **Python**, **Go** |
+| **API Tester** | REST/GraphQL | **Postman**, **curl** |
+| **CI/CD Builder** | Pipeline Dev | **Docker**, **GitHub Actions** |
+| **Bot Developer** | Automation | **Telegram Bot API** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+> *"Quality is not an act, it is a habit."* — Aristotle
 
 </div>
 
@@ -152,8 +150,6 @@
 
 <div align="center">
 
-<!-- Using ghstats.dev (token-free, working) -->
-
 <a href="https://github.com/h1ntz0">
   <img src="https://ghstats.dev/api/card?username=h1ntz0&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
@@ -174,48 +170,10 @@
 
 ---
 
-<!-- Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=h1ntz0&theme=algolia&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br>
-
----
-
-<!-- Streak Stats -->
-<div align="center">
-
-## 🔥 Contribution Streak
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.home.serpro.dev?user=h1ntz0&theme=tokyonight&hide_border=true&fire=FF6B6B&ring=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
----
-
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 </div>
 
@@ -278,19 +236,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=pulse)](https://twitter.com/your-twitter-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse)](mailto:your-email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=pulse)](https://github.com/h1ntz0)
-
-</div>
-
-<br>
-
----
-
-<!-- Quote Section -->
-<div align="center">
-
-## 💭 QA Philosophy
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
