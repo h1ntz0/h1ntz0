@@ -1,171 +1,254 @@
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  ▸ zein@h1ntz0:~$ whoami                                  │
-│    Zein — Quality Assurance Tester | CLI & Bot Builder    │
-│  ▸ zein@h1ntz0:~$ cat focus.txt                           │
-│    Go · Python · Clean APIs · Telegram Bots               │
-│  ▸ zein@h1ntz0:~$ echo $STATUS                            │
-│    Building tools that live in the terminal               │
-└──────────────────────────────────────────────────────────┘
-```
-
-# 👋 Hi, I'm Zein
-
-### 🚀 Quality Assurance Tester | CLI & Bot Builder
-
-I build tools that live in the terminal and bots that make life easier. If it can be done from the CLI, I'll probably build it there. ☕
-
-🔗 **Portfolio**: [h1ntz0.github.io/portfolio](https://h1ntz0.github.io/portfolio)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=220&section=header&text=Zein%20%7C%20QA%20Engineer&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Quality%20Assurance%20%7C%20Test%20Automation%20%7C%20CI/CD&descSize=18&descAlign=center)
 
 </div>
 
----
+<div align="center">
 
-## 📌 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=h1ntz0&style=flat-square&color=FF6B6B&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/h1ntz0?style=flat-square&color=58A6FF&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/h1ntz0?style=flat-square&color=FFD700&label=Stars)
 
-- 💻 **Quality Assurance Tester** — focus on **Go**, **Python**, and clean API design
-- 🤖 Building **Telegram bots** with python-telegram-bot, Pillow & SQLite
-- 🛠️ **Terminal enthusiast** — productivity belongs in the terminal
-- 🌱 Currently learning: Go concurrency, deployment, and system design
-- 📖 Learning in public — sharing progress on my portfolio
+</div>
 
-**Quick stats:**
+<br>
 
-| ⚡ Experience | 🛠️ Projects shipped | 🔥 Passion |
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────┐
+│  ── zein@h1ntz0 ────────────────────────────────────────────────── │
+│                                                                    │
+│  > whoami                                                          │
+│  QA Engineer · Test Automation · CI/CD Pipeline                    │
+│                                                                    │
+│  > cat /etc/motd                                                   │
+│  Ensuring software quality through automated testing,              │
+│  meticulous validation, and continuous improvement.                │
+│                                                                    │
+│  > echo $?                                                         │
+│  All systems operational ✓                                         │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+## 🎯 About Me
+
+<div align="center">
+
+| 💼 Role | 🎯 Focus | 🛠️ Tools |
 |:---:|:---:|:---:|
-| 2+ years building backend tools | 2 flagship open-source projects | Terminal & automation |
+| **QA Engineer** | Test Automation | **Python**, **Go** |
+| **API Tester** | REST/GraphQL | **Postman**, **curl** |
+| **CI/CD Builder** | Pipeline Dev | **Docker**, **GitHub Actions** |
+| **Bot Developer** | Automation | **Telegram Bot API** |
 
-### 🧰 Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+> *"Quality is not an act, it is a habit."* — Aristotle
+
+I'm a QA Engineer who believes great software is built on rigorous testing. I specialize in **test automation**, **API validation**, and **CI/CD pipelines** — turning manual QA processes into reliable, automated systems.
+
+<br>
 
 ---
 
-## 🎯 Currently Learning / Next Goals
+<br>
 
-- [x] Build a CLI todo app in Go
-- [x] Ship a Telegram bot to production
-- [ ] Master Go concurrency & performance
-- [ ] Deploy services with Docker
-- [ ] Contribute to open source
-- [ ] Design scalable REST APIs
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Testing**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-404E49?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-## 📌 Featured Projects
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=58A6FF&text_color=C9D1D9&border_color=30363D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=6)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=h1ntz0&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>✅ Todo-cli</h3>
-      <p>
-        <a href="https://github.com/h1ntz0/Todo-cli"><b>h1ntz0/Todo-cli</b></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/JSON%20Storage-4E5D6C?style=flat-square" alt="JSON Storage" />
-        <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Active" />
-      </p>
-      <p align="left">
-        🔹 Add, list, complete & delete tasks from the terminal<br />
-        🔹 Zero external dependencies — just Go
-      </p>
+      <a href="https://github.com/h1ntz0/Todo-cli">
+        <b>📋 Todo-cli</b>
+      </a>
+      <br />
+      <sub>A minimal CLI task manager built in Go</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/JSON-4E5D6C?style=flat-square" alt="JSON" />
+      <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Active" />
     </td>
     <td align="center" width="50%">
-      <h3>🤖 telegram-sticker-bot</h3>
-      <p>
-        <a href="https://github.com/h1ntz0/telegram-sticker-bot"><b>h1ntz0/telegram-sticker-bot</b></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pillow-5C3EE8?style=flat-square" alt="Pillow" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Active" />
-      </p>
-      <p align="left">
-        🔹 Converts any photo → sticker (WebP 512x512, transparent padding)<br />
-        🔹 Tracks sticker history with SQLite + `/stats` command
-      </p>
+      <a href="https://github.com/h1ntz0/telegram-sticker-bot">
+        <b>🤖 telegram-sticker-bot</b>
+      </a>
+      <br />
+      <sub>Photo → sticker converter with history tracking</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Pillow-5C3EE8?style=flat-square" alt="Pillow" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square" alt="Active" />
     </td>
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<!--
-  Stats cards use the github-readme-stats-rho mirror because the official
-  github-readme-stats.vercel.app instance is intermittently down (503).
-  Switch back by replacing github-readme-stats-rho with github-readme-stats.
--->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-rho.vercel.app/api?username=h1ntz0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=radical&hide_border=true&fire=FF6B6B&ring=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=react-dark&bg_color=0d1117&hide_border=true&color=FF6B6B&line=FF6B6B&point=FF6B6B" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h1ntz0&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h1ntz0&style=flat-square&color=FF6B6B&label=Profile%20Views" alt="👀 Visitor Count" />
-</p>
+<br>
 
 ---
 
-## 🤝 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://h1ntz0.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="mailto:arofizain12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+📋 Test Automation Frameworks
+   └── Building reusable test suites with Python & Go
+
+🔧 CI/CD Pipeline Optimization
+   └── GitHub Actions + Docker integration
+
+🌐 API Testing & Validation
+   └── Automated REST/GraphQL endpoint testing
+
+🤖 Telegram Bot Development
+   └── Automation tools for productivity
+```
+
+</div>
+
+<br>
 
 ---
 
-## 💡 Fun Fact
+<br>
 
-> My favorite terminal command isn't `git push` — it's `history | sort | uniq -c | sort -rn | head -10`.
-> And yes, I've asked my bot to send me a sticker of my own code. 🤖
+## 💡 QA Philosophy
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   "The goal is not to find bugs.                                │
+│    The goal is to prevent them."                                │
+│                                                                 │
+│   ── Prevention over Detection                                 │
+│   ── Automation over Manual                                     │
+│   ── Continuous Improvement over Perfection                     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h1ntz0)
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-**Open to collaboration, learning, and interesting backend projects.** 🤝
-Let's build something together — *one commit at a time*.
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:21262D&height=100&section=footer)
 
-<i>⚡ "Consistency beats intensity." — built with curiosity, coffee, and lots of Go.</i>
+**Thanks for visiting! ⭐ Feel free to connect or check out my projects.**
 
 </div>
