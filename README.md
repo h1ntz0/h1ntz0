@@ -1,14 +1,64 @@
 <div align="center">
 
-<h1>Hi there 👋 I'm Zein</h1>
+<br>
 
-<p>
-  <b>QA Engineer</b> · <b>Test Automation</b> · <b>CI/CD Pipeline</b>
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=400&size=42&duration=2000&pause=1000&color=1D1D1F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Zein.;QA+Engineer." alt="Typing SVG" />
+
+<br>
+
+<p align="center">
+  <i>Ensuring software quality through automated testing,</i><br>
+  <i>meticulous validation, and continuous improvement.</i>
 </p>
 
-<p>
-  <i>Building quality one test at a time 🚀</i>
-</p>
+<br>
+
+<a href="https://github.com/h1ntz0">
+  <img src="https://img.shields.io/github/followers/h1ntz0?label=Follow&style=social" alt="Follow">
+</a>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🎯 What I Do
+
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>Test Automation</b><br>
+      <sub>Python, Go, Pytest</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>API Validation</b><br>
+      <sub>REST, GraphQL, Postman</sub>
+    </td>
+    <td align="center" width="33%">
+      <b>CI/CD Pipelines</b><br>
+      <sub>Docker, GitHub Actions</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🛠️ Tech Stack
 
 </div>
 
@@ -16,43 +66,23 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=h1ntz0&style=flat-square&color=FF6B6B&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/h1ntz0?style=flat-square&color=58A6FF&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/h1ntz0?style=flat-square&color=FFD700&label=Stars)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 <br>
-
----
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm a QA Engineer focused on **test automation** and **building reliable systems**. I believe great software is built on rigorous testing.
-
-- 🔧 **Current Role**: QA Engineer
-- 🎯 **Focus**: Test Automation, API Testing, CI/CD
-- 🛠️ **Tools**: Python, Go, Docker, GitHub Actions
-- 📚 **Learning**: System Design, Cloud Architecture
-
-<br>
-
----
-
-<br>
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
-| Languages | Testing | DevOps |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | ![Puppeteer](https://img.shields.io/badge/Puppeteer-404E49?style=flat-square&logo=puppeteer&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -62,7 +92,13 @@ I'm a QA Engineer focused on **test automation** and **building reliable systems
 
 <br>
 
-## 📊 GitHub Stats
+<div align="center">
+
+### 📊 GitHub
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -84,12 +120,6 @@ I'm a QA Engineer focused on **test automation** and **building reliable systems
 
 <br>
 
----
-
-<br>
-
-## 📈 Contribution Activity
-
 <div align="center">
 
 ![Contribution Graph](https://ghchart.rshah.org/h1ntz0)
@@ -102,14 +132,20 @@ I'm a QA Engineer focused on **test automation** and **building reliable systems
 
 <br>
 
-## 🚀 Featured Projects
+<div align="center">
+
+### 🚀 Projects
+
+</div>
+
+<br>
 
 <div align="center">
 
 | Project | Description | Tech |
 |:---:|:---|:---:|
-| [**Todo-cli**](https://github.com/h1ntz0/Todo-cli) | Minimal CLI task manager | `Go` `JSON` |
-| [**telegram-sticker-bot**](https://github.com/h1ntz0/telegram-sticker-bot) | Photo → sticker converter | `Python` `Pillow` `SQLite` |
+| [**Todo-cli**](https://github.com/h1ntz0/Todo-cli) | Minimal CLI task manager | `Go` |
+| [**telegram-sticker-bot**](https://github.com/h1ntz0/telegram-sticker-bot) | Photo → sticker converter | `Python` |
 
 </div>
 
@@ -119,14 +155,13 @@ I'm a QA Engineer focused on **test automation** and **building reliable systems
 
 <br>
 
-## 📫 Connect
-
 <div align="center">
+
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/h1ntz0)
 
 </div>
 
@@ -134,8 +169,10 @@ I'm a QA Engineer focused on **test automation** and **building reliable systems
 
 ---
 
+<br>
+
 <div align="center">
 
-<i>Thanks for visiting! ⭐</i>
+<sub>Thanks for visiting. ⭐</sub>
 
 </div>
