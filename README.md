@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/stars/h1ntz0?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
   </a>
   <a href="https://github.com/h1ntz0?tab=repositories">
-    <img src="https://img.shields.io/github/repos/h1ntz0?label=Repos&style=for-the-badge&color=blue" alt="Repos"/>
+    <img src="https://img.shields.io/github/repo-size/h1ntz0/h1ntz0?label=Profile%20Size&style=for-the-badge&color=blue" alt="Profile Size"/>
   </a>
 </p>
 
@@ -56,20 +56,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+### 📊 Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=dark&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="GitHub Streak" />
 </p>
-
----
-
-### 🐧 Contribution Graph
 
 ![h1ntz0's github activity](https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&hide_border=true&area=true&area_color=58a6ff)
 
