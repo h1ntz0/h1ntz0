@@ -1,12 +1,23 @@
-<h1 align="center">Hey there, I'm h1ntz0 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+there,+I'm+h1ntz0;Quality+Assurance+Tester" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
-  <i>Quality Assurance Tester who believes every bug caught is a user saved.</i>
+  <i>I find bugs before users do — and I'm proud of it.</i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/h1ntz0?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/h1ntz0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/h1ntz0?tab=stars"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/h1ntz0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/h1ntz0?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/h1ntz0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/h1ntz0?tab=stars">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/h1ntz0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/h1ntz0?tab=repositories&sort=stargazers">
+    <img alt="repos" title="My Repositories" src="https://custom-icon-badges.demolab.com/github/repos/h1ntz0?color=0A66C2&labelColor=004182&style=for-the-badge&logo=repo&label=Repos&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -48,11 +59,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="h1ntz0's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff" alt="h1ntz0's GitHub stats" />
   </a>
+  <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="h1ntz0's top languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="h1ntz0's top languages" />
+  </a>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=dark&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h1ntz0&theme=dark&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" alt="h1ntz0's GitHub Streak" />
   </a>
 </p>
 
@@ -61,8 +81,12 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/naumenko-sa/github-achievements">
-    <img src="https://github-achievements.eu-central-1.linodeobjects.com/trophies/h1ntz0-1--10?size=medium" alt="h1ntz0's GitHub Achievements"/>
+  <a href="https://github.com/Nauman-Adil/github-achievements-badge">
+    <img src="https://github-achievements-badge.herokuapp.com/api/badge/h1ntz0?size=medium" alt="h1ntz0's Achievements"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/viewing-contributions-on-your-profile">
+    <img src="https://github-readme-stats.vercel.app/api?username=h1ntz0&show_icons=true&theme=tokyonight&hide_border=true&icon_size=40&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&hide=prs,commits,contribs&include_all_commits=true" alt="Achievements" />
   </a>
 </p>
 
@@ -70,20 +94,38 @@
 
 ### 🐧 Contribution Graph
 
-![h1ntz0's github activity](https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&hide_border=true)
+![h1ntz0's github activity](https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&hide_border=true&area=true&area_color=58a6ff)
 
 ---
 
 ### 🧰 QA Toolkit I Use
 
-| Category | Tools |
-|----------|-------|
-| **Automation** | Selenium, Playwright, Cypress, Puppeteer |
-| **API Testing** | Postman, REST Assured, pytest, Newman |
-| **Performance** | JMeter, k6, Locust |
-| **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
-| **Bug Tracking** | Jira, GitHub Issues, Linear |
-| **Code Quality** | SonarQube, ESLint, Prettier |
+<table>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>Selenium, Playwright, Cypress, Puppeteer</td>
+  </tr>
+  <tr>
+    <td><b>API Testing</b></td>
+    <td>Postman, REST Assured, pytest, Newman</td>
+  </tr>
+  <tr>
+    <td><b>Performance</b></td>
+    <td>JMeter, k6, Locust</td>
+  </tr>
+  <tr>
+    <td><b>CI/CD</b></td>
+    <td>GitHub Actions, Jenkins, GitLab CI</td>
+  </tr>
+  <tr>
+    <td><b>Bug Tracking</b></td>
+    <td>Jira, GitHub Issues, Linear</td>
+  </tr>
+  <tr>
+    <td><b>Code Quality</b></td>
+    <td>SonarQube, ESLint, Prettier</td>
+  </tr>
+</table>
 
 ---
 
