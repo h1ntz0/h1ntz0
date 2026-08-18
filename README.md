@@ -24,10 +24,20 @@
 
 ### 🧪 About Me
 
-- 🔭 **Currently:** Building open-source QA tools and automation frameworks
+- 🔭 **Currently:** Building open-source QA tools, automation frameworks, and a full-stack anime catalog
 - 🌱 **Learning:** Advanced test architecture, CI/CD pipelines, and performance testing
 - 💬 **Ask me about:** Test automation, API testing, bug hunting, or quality engineering
 - ⚡ **Fun fact:** I find bugs before users do — and I'm proud of it
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**My Portfolio**](https://github.com/h1ntz0/my-portfolio) | Personal QA portfolio — about, experience, skills & testing lab | Next.js · TypeScript |
+| [**Ranime**](https://github.com/h1ntz0/Ranime) | Anime discovery, tracking & rating platform (AniList-powered) | React · Fastify · PostgreSQL |
+| [**Telegram Sticker Bot**](https://github.com/h1ntz0/telegram-sticker-bot) | Turn any photo into a ready-to-use Telegram sticker | Python · Pillow · SQLite |
 
 ---
 
