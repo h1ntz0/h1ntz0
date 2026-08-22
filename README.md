@@ -1,59 +1,85 @@
 # Arrofi Zein
 
-`Quality Assurance · Test Automation · Software Reliability`  
-Jakarta, Indonesia
+### QA ENGINEER
+**Test Automation · API Testing · Software Quality**
 
----
-
-QA-focused engineer specializing in automated testing, API validation, and building maintainable test frameworks. Focused on turning repetitive manual workflows into reliable CI/CD test suites and catching edge-case defects before production.
+[GitHub](https://github.com/h1ntz0) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arrofizeinabdillah66/) &nbsp;·&nbsp; [Email](mailto:arrofi.zein12@gmail.com)
 
 ---
 
 ### CURRENT FOCUS
 
-```text
-→ Building end-to-end web test automation frameworks with Playwright & TypeScript
-→ Designing automated API regression suites & payload validation schemas
-→ Integrating automated test gates into GitHub Actions CI/CD pipelines
-→ Exploring performance, contract testing, and test architecture
-```
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### AUTOMATION
+* Playwright & TypeScript
+* Pytest & Python
+* E2E UI Regression
+
+</td>
+<td width="33%" valign="top">
+
+#### QUALITY & API
+* API Schema Validation
+* Accessibility (WCAG / axe-core)
+* Evidence-Driven Test Runs
+
+</td>
+<td width="33%" valign="top">
+
+#### ENGINEERING
+* GitHub Actions CI/CD
+* Containerized DBs (Docker)
+* Test Matrix & Gates
+
+</td>
+</tr>
+</table>
 
 ---
 
-### SELECTED PROJECTS
+### SELECTED WORK
 
-#### `01` / Digital QA Portfolio & E2E Testing Lab
-Personal evidence-driven QA portfolio demonstrating test architecture, bug documentation, and test execution workflows.
+#### `01` / DIGITAL QA PORTFOLIO & E2E TESTING LAB
 
-* **Tech:** Next.js 15 · TypeScript · Playwright · Tailwind CSS · axe-core
-* **Key Implementations:**
-  * Automated end-to-end regression suites covering navigation, forms, and dynamic UI state with Playwright.
-  * Enforced automated WCAG 2.2 AA accessibility validation across dark and light modes.
-  * Architected static-first data modeling for verifiable QA case studies and test runs.
-* **Links:** [Repository](https://github.com/h1ntz0/my-portfolio)
+Evidence-driven QA portfolio demonstrating test architecture, bug documentation, and automated test execution workflows.
 
----
+`Playwright` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `Next.js 15` &nbsp;·&nbsp; `Tailwind CSS` &nbsp;·&nbsp; `axe-core`
 
-#### `02` / Ranime — Local-First Catalog & Tracking Engine
-Self-hosted anime discovery and personal tracking platform with local caching and GraphQL integration.
+* **E2E Testing:** Automated end-to-end regression suites covering navigation, forms, and dynamic UI state transitions.
+* **Accessibility:** Enforced automated WCAG 2.2 AA accessibility validation across dark and light modes.
+* **Test Architecture:** Static-first data modeling for verifiable QA case studies, bug reports, and test execution logs.
 
-* **Tech:** React 19 · Fastify 5 · TypeScript · PostgreSQL · Docker · Vitest
-* **Key Implementations:**
-  * Built RESTful API endpoints in Fastify with strict schema validation and JWT authentication.
-  * Designed Vitest test suites for unit logic, route handling, and query caching mechanisms.
-  * Containerized local multi-service PostgreSQL database workflows using Docker Compose.
-* **Links:** [Repository](https://github.com/h1ntz0/Ranime)
+[**VIEW PROJECT →**](https://github.com/h1ntz0/my-portfolio)
 
----
+<br/>
 
-#### `03` / Telegram Sticker Conversion Engine
-Automated image processing bot converting custom photos into ready-to-use Telegram stickers.
+#### `02` / RANIME — LOCAL-FIRST CATALOG & TRACKING ENGINE
 
-* **Tech:** Python · python-telegram-bot · Pillow · SQLite
-* **Key Implementations:**
-  * Implemented automated image resizing, aspect ratio normalization, and transparent padding pipelines.
-  * Handled concurrent bot webhook requests with persistent SQLite state tracking.
-* **Links:** [Repository](https://github.com/h1ntz0/telegram-sticker-bot)
+Self-hosted anime discovery and tracking platform featuring local caching, GraphQL integration, and containerized backend services.
+
+`React 19` &nbsp;·&nbsp; `Fastify 5` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Vitest`
+
+* **API Testing & Schemas:** RESTful endpoints built with strict request/response schema validation and JWT authentication.
+* **Automated Unit & Integration:** Vitest test suites verifying route handlers, business logic, and query caching mechanisms.
+* **Containerization:** Multi-service PostgreSQL database environment orchestrated via Docker Compose.
+
+[**VIEW PROJECT →**](https://github.com/h1ntz0/Ranime)
+
+<br/>
+
+#### `03` / TELEGRAM STICKER CONVERSION ENGINE
+
+Automated image processing bot converting user-submitted photos into compliant Telegram sticker assets.
+
+`Python` &nbsp;·&nbsp; `python-telegram-bot` &nbsp;·&nbsp; `Pillow` &nbsp;·&nbsp; `SQLite`
+
+* **Automated Image Pipeline:** Image resizing, aspect ratio normalization, and transparent padding pipelines.
+* **State Management:** Asynchronous webhook handling with persistent SQLite conversation state tracking.
+
+[**VIEW PROJECT →**](https://github.com/h1ntz0/telegram-sticker-bot)
 
 ---
 
@@ -66,23 +92,23 @@ Playwright · Pytest · Selenium · Postman · Vitest · axe-core
 LANGUAGES & QUERY
 TypeScript · JavaScript · Python · Go · SQL · Bash
 
+INFRASTRUCTURE & CI/CD
+Docker · GitHub Actions · Linux · Git
+
 FRAMEWORKS & RUNTIMES
-Node.js · Fastify · React · Next.js
-
-CI/CD & INFRASTRUCTURE
-GitHub Actions · Docker · Linux · Git
-
-DATABASES & TOOLS
-PostgreSQL · SQLite · DBeaver · Jira
+Node.js · Fastify · React · Next.js · PostgreSQL · SQLite
 ```
 
 ---
 
-### LEARNING & EXPERIMENTATION
+### LEARNING NOW
 
-* Advanced test architecture & contract testing (Pact)
-* Load and performance benchmark testing (k6)
-* Multi-stage CI/CD test gates & matrix pipelines
+```text
+01  Test Architecture & Test Strategy Design
+02  Contract Testing (Pact)
+03  Load & Performance Benchmarking (k6)
+04  Multi-stage CI/CD Test Matrix Gates
+```
 
 ---
 
