@@ -146,16 +146,20 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ---
 
-### 📊 ACTIVITY & STREAK
+### 📊 ACTIVITY & REPOSITORY STATS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=h1ntz0&theme=github-dark-blue&hide_border=true&background=0d1117&ring=388bfd&fire=2ea043&currStreakLabel=58a6ff" alt="GitHub Streak Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1ntz0&theme=github_dark" alt="GitHub Profile Summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1ntz0&theme=github_dark" alt="GitHub Profile Details & Contributions" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=388bfd&point=2ea043&area=true&hide_title=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h1ntz0&theme=github_dark" alt="GitHub Stats Summary" width="48%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h1ntz0&theme=github_dark" alt="Languages Donut Chart" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=github-compact&bg_color=0d1117&color=58a6ff&line=388bfd&point=2ea043&area=true&hide_title=true" alt="Activity Wave Graph" width="100%" />
 </p>
 
 ---
