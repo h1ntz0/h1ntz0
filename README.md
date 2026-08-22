@@ -3,10 +3,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/h1ntz0"><img src="https://img.shields.io/badge/GitHub-h1ntz0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/arrofizeinabdillah66/"><img src="https://img.shields.io/badge/LinkedIn-Arrofi_Zein-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:arrofi.zein12@gmail.com"><img src="https://img.shields.io/badge/Email-arrofi.zein12%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/h1ntz0?tab=repositories"><img src="https://img.shields.io/badge/Focus-Automation_QA-2ea043?style=flat-square&logo=playwright&logoColor=white" alt="Focus" /></a>
+  <a href="https://github.com/h1ntz0">
+    <img src="https://img.shields.io/badge/GitHub-h1ntz0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/arrofizeinabdillah66/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arrofi_Zein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:arrofi.zein12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arrofi.zein12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/h1ntz0?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Automation_QA-238636?style=for-the-badge&logo=playwright&logoColor=white" alt="Focus" />
+  </a>
 </p>
 
 ---
@@ -151,11 +162,9 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ### 🎯 LEARNING ROADMAP
 
-```text
-01  Test Architecture & Contract Testing (Pact)
-02  Load & Performance Benchmarking (k6)
-03  Multi-Stage CI/CD Quality Matrix Gates
-```
+<p align="center">
+  <img src="./assets/roadmap.svg" alt="Arrofi Zein - Learning Roadmap Cards" width="100%" />
+</p>
 
 ---
 
