@@ -1,0 +1,89 @@
+<svg width="850" height="200" viewBox="0 0 850 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ea043" />
+      <stop offset="50%" stop-color="#388bfd" />
+      <stop offset="100%" stop-color="#a371f7" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.3"/>
+    </pattern>
+
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .tag { fill: #8b949e; font-size: 13px; font-weight: 500; }
+      .title { fill: #f0f6fc; font-size: 34px; font-weight: 700; letter-spacing: -0.5px; }
+      .subtitle { fill: #58a6ff; font-size: 15px; font-weight: 600; letter-spacing: 1px; }
+      .status-text { fill: #7ee787; font-size: 12px; font-weight: 600; }
+      .metric-label { fill: #8b949e; font-size: 11px; }
+      .metric-val { fill: #c9d1d9; font-size: 13px; font-weight: 600; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="850" height="200" rx="10" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1" />
+  <rect width="850" height="200" rx="10" fill="url(#grid)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="850" height="3" rx="1.5" fill="url(#accent-grad)" />
+
+  <!-- Left Content -->
+  <g transform="translate(40, 48)">
+    <text x="0" y="0" class="subtitle mono">QUALITY ASSURANCE &amp; TEST AUTOMATION</text>
+    <text x="0" y="38" class="title sans">Arrofi Zein</text>
+    <text x="0" y="66" class="tag mono">E2E Testing · API Automation · CI/CD Quality Gates · Reliability</text>
+    
+    <!-- Status Badge -->
+    <g transform="translate(0, 84)">
+      <rect width="170" height="26" rx="13" fill="#238636" fill-opacity="0.15" stroke="#2ea043" stroke-width="1"/>
+      <circle cx="14" cy="13" r="4" fill="#3fb950" />
+      <text x="26" y="17" class="status-text mono">TEST PIPELINE: PASS</text>
+    </g>
+  </g>
+
+  <!-- Right Visual: Testing Pipeline Schematic -->
+  <g transform="translate(560, 42)">
+    <!-- Card Frame -->
+    <rect width="250" height="120" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    
+    <!-- Terminal Header -->
+    <rect width="250" height="24" rx="6" fill="#161b22" />
+    <circle cx="14" cy="12" r="3.5" fill="#f85149" />
+    <circle cx="26" cy="12" r="3.5" fill="#e3b341" />
+    <circle cx="38" cy="12" r="3.5" fill="#2ea043" />
+    <text x="52" y="16" class="mono metric-label">qa-pipeline.yml</text>
+
+    <!-- Pipeline Stages -->
+    <g transform="translate(16, 42)">
+      <!-- Unit / Schema -->
+      <circle cx="6" cy="6" r="4" fill="#388bfd" />
+      <text x="18" y="10" class="mono metric-val">Unit &amp; Schema</text>
+      <text x="180" y="10" class="mono status-text">✓ 100%</text>
+      
+      <!-- API Regression -->
+      <circle cx="6" cy="30" r="4" fill="#388bfd" />
+      <text x="18" y="34" class="mono metric-val">API Regression</text>
+      <text x="180" y="34" class="mono status-text">✓ 42/42</text>
+
+      <!-- E2E Playwright -->
+      <circle cx="6" cy="54" r="4" fill="#2ea043" />
+      <text x="18" y="58" class="mono metric-val">E2E Playwright</text>
+      <text x="180" y="58" class="mono status-text">✓ PASS</text>
+
+      <!-- Line connections -->
+      <line x1="6" y1="12" x2="6" y2="24" stroke="#30363d" stroke-width="1.5" />
+      <line x1="6" y1="36" x2="6" y2="48" stroke="#30363d" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>
