@@ -107,33 +107,31 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ### 🛠️ TECHNICAL STACK
 
-<p align="left">
-  <strong>Testing &amp; Automation</strong><br/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
-</p>
-
-<p align="left">
-  <strong>Languages &amp; Core</strong><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
-
-<p align="left">
-  <strong>Infrastructure &amp; Databases</strong><br/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
+<table>
+<tr>
+<td width="33%" align="center">
+<strong>Testing &amp; QA Automation</strong>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=playwright,pytest,selenium,postman,vitest&theme=dark" alt="Testing Tools" />
+</a>
+</td>
+<td width="33%" align="center">
+<strong>Languages &amp; Runtimes</strong>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,bash,nodejs&theme=dark" alt="Languages" />
+</a>
+</td>
+<td width="33%" align="center">
+<strong>Infra &amp; Databases</strong>
+<br/><br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,linux,postgres,sqlite&theme=dark" alt="Infrastructure" />
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
