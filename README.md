@@ -159,9 +159,9 @@ Python · python-telegram-bot · Pillow · SQLite
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1ntz0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h1ntz0&theme=github_dark&utcOffset=7" alt="Commit Time Distribution" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h1ntz0&theme=github_dark" alt="Most Commit Language" width="48%" />
 </p>
 
 ---
