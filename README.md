@@ -159,7 +159,9 @@ Python · python-telegram-bot · Pillow · SQLite
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=h1ntz0&theme=github-compact&bg_color=0d1117&color=58a6ff&line=388bfd&point=2ea043&area=true&hide_title=true" alt="Activity Wave Graph" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h1ntz0&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h1ntz0&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
