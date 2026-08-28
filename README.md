@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32&height=180&section=header&text=Arrofi%20Zein&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Quality%20Assurance%20%26%20Test%20Automation&descSize=15&descAlignY=60&descColor=8b949e" width="100%" alt="Arrofi Zein - QA Engineer" />
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=QA+%26+Test+Automation+Engineer;Playwright+%7C+Pytest+%7C+Vitest;Autonomous+OpenAPI+Contract+Testing;Building+Zero-Defect+CI%2FCD+Quality+Gates" alt="Typing SVG" />
-  </a>
+  <img src="./assets/banner.svg" alt="Arrofi Zein - QA Engineer Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -24,34 +18,24 @@
 
 ---
 
-### 👨‍💻 `about_me.ts`
+### 👨‍💻 About Me
 
-```typescript
-interface QualityEngineer {
-  name: string;
-  role: string;
-  location: string;
-  coreDiscipline: string[];
-  currentFocus: string[];
-}
+Quality Assurance & Test Automation Engineer with a strong foundation in end-to-end regression, API contract validation, and CI/CD quality pipelines. I design reliable test suites that catch defects early and ensure high software reliability across web applications and backend services.
 
-const engineer: QualityEngineer = {
-  name: "Arrofi Zein (Jenjun)",
-  role: "QA & Test Automation Engineer",
-  location: "Indonesia",
-  coreDiscipline: [
-    "End-to-End Regression Automation (Playwright)",
-    "API Schema & Contract Validation (Pytest / Postman)",
-    "Automated WCAG 2.2 AA Auditing (axe-core)",
-    "CI/CD Multi-Stage Quality Gates (GitHub Actions)"
-  ],
-  currentFocus: [
-    "Consumer-driven contract testing with Pact",
-    "Distributed performance benchmarking with k6",
-    "Automated test failure telemetry & HTML reporting"
-  ]
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📍 Location:</b> Indonesia<br>
+      <b>💼 Role:</b> QA &amp; Test Automation Engineer<br>
+      <b>🧪 Core Focus:</b> E2E Testing, API Testing, Accessibility (a11y)<br>
+    </td>
+    <td width="50%" valign="top">
+      <b>🎯 Specialties:</b> Playwright, Pytest, Vitest, CI/CD Gates<br>
+      <b>🔍 Quality Standard:</b> WCAG 2.2 AA Compliance, Strict Schema Check<br>
+      <b>🌱 Currently Exploring:</b> Contract Testing (Pact) &amp; k6 Load Testing<br>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -166,10 +150,4 @@ TypeScript · Playwright · Next.js 15 · Tailwind CSS · axe-core
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h1ntz0&theme=github_dark&utcOffset=7" alt="Commit Time Distribution" width="48%" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h1ntz0&theme=github_dark" alt="Most Commit Language" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,18,32&height=90&section=footer" width="100%" alt="Footer" />
 </p>
