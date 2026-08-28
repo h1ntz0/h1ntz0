@@ -1,0 +1,128 @@
+<svg width="850" height="120" viewBox="0 0 850 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="mon-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e18" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="mon-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ea043" />
+      <stop offset="50%" stop-color="#388bfd" />
+      <stop offset="100%" stop-color="#a371f7" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="mon-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.25"/>
+    </pattern>
+
+    <!-- Clip -->
+    <clipPath id="mon-clip">
+      <rect width="850" height="120" rx="10" />
+    </clipPath>
+
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .label-sm { fill: #8b949e; font-size: 10px; font-weight: 600; letter-spacing: 1.5px; }
+      .val-lg { fill: #f0f6fc; font-size: 16px; font-weight: 700; }
+      .stat-pass { fill: #7ee787; font-size: 12px; font-weight: 700; }
+      .stat-blue { fill: #58a6ff; font-size: 12px; font-weight: 700; }
+      .stat-purple { fill: #d2a8ff; font-size: 12px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <!-- Container -->
+  <rect width="850" height="120" rx="10" fill="url(#mon-bg)" stroke="#30363d" stroke-width="1" />
+  <rect width="850" height="120" rx="10" fill="url(#mon-grid)" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="850" height="2.5" fill="url(#mon-accent)" />
+  <rect x="-100" y="0" width="100" height="2.5" fill="#ffffff" fill-opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" values="-100,0;950,0" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Left: Status & Telemetry Tag -->
+  <g transform="translate(24, 28)">
+    <text x="0" y="10" class="mono label-sm">LIVE QA TELEMETRY</text>
+    <text x="0" y="36" class="sans val-lg">Continuous Verification</text>
+    
+    <!-- Live Ping Badge -->
+    <g transform="translate(0, 48)">
+      <rect width="130" height="22" rx="11" fill="#238636" fill-opacity="0.16" stroke="#2ea043" stroke-width="0.8"/>
+      <circle cx="12" cy="11" r="4" fill="#3fb950">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="12" cy="11" r="4" fill="none" stroke="#3fb950" stroke-width="1.2">
+        <animate attributeName="r" values="4;12" dur="1.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.8;0" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+      <text x="24" y="15" class="mono stat-pass">HEALTHY: 100%</text>
+    </g>
+  </g>
+
+  <!-- Center: Animated Heartbeat / Waveform Graph -->
+  <g transform="translate(270, 25)">
+    <!-- Frame -->
+    <rect width="270" height="70" rx="6" fill="#090d16" stroke="#30363d" stroke-width="0.8" />
+    
+    <!-- Grid line -->
+    <line x1="0" y1="35" x2="270" y2="35" stroke="#21262d" stroke-width="1" stroke-dasharray="3 3" />
+    
+    <!-- Scanning radar line -->
+    <rect x="0" y="0" width="2" height="70" fill="#388bfd" fill-opacity="0.4">
+      <animate attributeName="x" values="0;268" dur="2.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Animated Waveform Path -->
+    <path d="M 0 35 L 30 35 L 45 15 L 55 55 L 70 20 L 85 45 L 95 35 L 140 35 L 155 12 L 168 58 L 180 22 L 195 44 L 205 35 L 270 35"
+          fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" values="0,300; 300,0" dur="2.4s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Glowing Node on Peak -->
+    <circle cx="155" cy="12" r="3.5" fill="#7ee787">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="55" cy="55" r="3" fill="#d2a8ff">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Right: Key Live Metrics -->
+  <g transform="translate(565, 20)">
+    <!-- Metric 1: Automated Pass Rate -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="12" class="mono label-sm">TEST PASS RATE</text>
+      <text x="250" y="12" class="mono stat-pass" text-anchor="end">99.8%</text>
+      <rect x="0" y="18" width="250" height="4" rx="2" fill="#21262d" />
+      <rect x="0" y="18" width="248" height="4" rx="2" fill="#2ea043">
+        <animate attributeName="width" values="180;248;240;248" dur="4s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- Metric 2: Coverage Matrix -->
+    <g transform="translate(0, 28)">
+      <text x="0" y="12" class="mono label-sm">E2E COVERAGE</text>
+      <text x="250" y="12" class="mono stat-blue" text-anchor="end">94.2%</text>
+      <rect x="0" y="18" width="250" height="4" rx="2" fill="#21262d" />
+      <rect x="0" y="18" width="235" height="4" rx="2" fill="#388bfd">
+        <animate attributeName="width" values="160;235;225;235" dur="4s" begin="0.5s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- Metric 3: CI Gate Status -->
+    <g transform="translate(0, 56)">
+      <text x="0" y="12" class="mono label-sm">CI PIPELINE GATES</text>
+      <text x="250" y="12" class="mono stat-purple" text-anchor="end">AUTOMATED</text>
+      <rect x="0" y="18" width="250" height="4" rx="2" fill="#21262d" />
+      <rect x="0" y="18" width="250" height="4" rx="2" fill="#a371f7">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+</svg>
