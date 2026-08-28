@@ -1,136 +1,77 @@
-<svg width="850" height="210" viewBox="0 0 850 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="190" viewBox="0 0 850 190" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0e18" />
-      <stop offset="50%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#161b22" />
-    </linearGradient>
-
-    <!-- Accent Gradient -->
-    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2ea043" />
-      <stop offset="50%" stop-color="#388bfd" />
-      <stop offset="100%" stop-color="#a371f7" />
-    </linearGradient>
-
-    <!-- Subtle Grid Pattern -->
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.25"/>
-    </pattern>
-
-    <!-- Clip for sweep animation -->
-    <clipPath id="card-clip">
-      <rect width="850" height="210" rx="14" />
-    </clipPath>
-
-    <!-- Glow filter for pipeline -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
-      .kicker { fill: #58a6ff; font-size: 13px; font-weight: 600; letter-spacing: 2.5px; }
-      .name { fill: #f0f6fc; font-size: 44px; font-weight: 800; letter-spacing: -0.5px; }
-      .subtitle { fill: #8b949e; font-size: 14px; font-weight: 500; }
-      .status-text { fill: #7ee787; font-size: 12px; font-weight: 700; }
-      .win-label { fill: #8b949e; font-size: 11px; }
-      .row-label { fill: #c9d1d9; font-size: 12px; font-weight: 600; }
-      .row-val { fill: #7ee787; font-size: 12px; font-weight: 700; }
+      .text-title { fill: #f0f6fc; font-size: 20px; font-weight: 700; }
+      .text-sub { fill: #8b949e; font-size: 13px; }
+      .text-prompt { fill: #58a6ff; font-size: 13px; font-weight: 600; }
+      .text-cmd { fill: #f0f6fc; font-size: 13px; }
+      .text-pass { fill: #3fb950; font-size: 12px; font-weight: 600; }
+      .text-file { fill: #c9d1d9; font-size: 12px; }
+      .text-meta { fill: #8b949e; font-size: 11px; }
     </style>
   </defs>
 
-  <!-- Container Box -->
-  <rect width="850" height="210" rx="14" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1" />
-  <rect width="850" height="210" rx="14" fill="url(#grid)" />
+  <!-- Terminal Window Background -->
+  <rect width="850" height="190" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
 
-  <!-- Animated sweep highlight across the whole card -->
-  <g clip-path="url(#card-clip)">
-    <rect x="-150" y="0" width="90" height="210" fill="#ffffff" fill-opacity="0.05">
-      <animateTransform attributeName="transform" type="translate" values="-150,0;1000,0" dur="4s" repeatCount="indefinite" />
-    </rect>
-  </g>
+  <!-- Terminal Header Bar -->
+  <rect width="850" height="30" rx="8" fill="#161b22" />
+  <rect y="22" width="850" height="8" fill="#161b22" />
+  <line x1="0" y1="30" x2="850" y2="30" stroke="#30363d" stroke-width="1" />
 
-  <!-- Top Accent Bar with moving light -->
-  <rect x="0" y="0" width="850" height="3" fill="url(#accent-grad)" />
-  <rect x="-120" y="-1" width="120" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.5">
-    <animateTransform attributeName="transform" type="translate" values="-120,0;900,0" dur="2.5s" repeatCount="indefinite" />
-  </rect>
+  <!-- Window Controls -->
+  <circle cx="18" cy="15" r="4" fill="#f85149" />
+  <circle cx="32" cy="15" r="4" fill="#e3b341" />
+  <circle cx="46" cy="15" r="4" fill="#2ea043" />
+  <text x="70" y="19" class="mono text-meta">zsh — test-suite-runner — 80x24</text>
 
-  <!-- Left: Identity -->
-  <g transform="translate(42, 46)">
-    <text x="0" y="0" class="mono kicker">QUALITY ASSURANCE &amp; TEST AUTOMATION</text>
-    <text x="0" y="46" class="sans name">Arrofi Zein</text>
-    <text x="0" y="76" class="mono subtitle">E2E Testing · API Automation · CI/CD Quality Gates · Reliability</text>
+  <!-- Left: Real Test Runner Output -->
+  <g transform="translate(24, 48)">
+    <!-- Command Line -->
+    <text x="0" y="14" class="mono text-prompt">$ <tspan class="text-cmd">pytest --contract &amp;&amp; playwright test</tspan></text>
+    
+    <!-- Test Results -->
+    <g transform="translate(0, 32)">
+      <text x="0" y="12" class="mono text-pass">PASS</text>
+      <text x="46" y="12" class="mono text-file">tests/api_contract/test_openapi_schema.py</text>
+      <text x="440" y="12" class="mono text-meta">(14 passed)</text>
 
-    <!-- Status Badge with pulsing ping ring -->
-    <g transform="translate(0, 98)">
-      <rect width="190" height="30" rx="15" fill="#238636" fill-opacity="0.16" stroke="#2ea043" stroke-width="1"/>
-      <circle cx="17" cy="15" r="5" fill="#3fb950" filter="url(#glow)">
-        <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="17" cy="15" r="5" fill="none" stroke="#3fb950" stroke-width="1.5">
-        <animate attributeName="r" values="5;16" dur="2s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0.9;0" dur="2s" repeatCount="indefinite" />
-      </circle>
-      <text x="32" y="19" class="mono status-text">TEST PIPELINE: PASS</text>
+      <text x="0" y="32" class="mono text-pass">PASS</text>
+      <text x="46" y="32" class="mono text-file">tests/e2e/portfolio_navigation.spec.ts</text>
+      <text x="440" y="32" class="mono text-meta">(8 passed)</text>
+
+      <text x="0" y="52" class="mono text-pass">PASS</text>
+      <text x="46" y="52" class="mono text-file">tests/a11y/wcag_aa_audit.spec.ts</text>
+      <text x="440" y="52" class="mono text-meta">(0 violations · axe-core)</text>
+    </g>
+
+    <!-- Cursor line -->
+    <g transform="translate(0, 102)">
+      <text x="0" y="12" class="mono text-prompt">$ <tspan class="text-meta">ready for deployment</tspan></text>
+      <rect x="180" y="1" width="7" height="13" fill="#58a6ff">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+      </rect>
     </g>
   </g>
 
-  <!-- Right: Testing Pipeline Terminal -->
-  <g transform="translate(560, 44)">
-    <rect width="250" height="128" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
-    <rect width="250" height="26" rx="8" fill="#161b22" />
-    <rect width="250" height="8" fill="#161b22" y="18" />
-    <circle cx="14" cy="13" r="3.5" fill="#f85149">
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="26" cy="13" r="3.5" fill="#e3b341">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <circle cx="38" cy="13" r="3.5" fill="#2ea043">
-      <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <text x="52" y="17" class="mono win-label">qa-pipeline.yml</text>
+  <!-- Vertical Divider -->
+  <line x1="570" y1="42" x2="570" y2="175" stroke="#30363d" stroke-width="1" stroke-dasharray="3 3" />
 
-    <!-- Terminal scan line -->
-    <rect x="0" y="0" width="250" height="2" fill="#388bfd" fill-opacity="0.4">
-      <animate attributeName="y" values="20;126" dur="3.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0;0.6;0" dur="3.5s" repeatCount="indefinite" />
-    </rect>
+  <!-- Right: Identity Stamp -->
+  <g transform="translate(600, 52)">
+    <text x="0" y="24" class="sans text-title">Arrofi Zein</text>
+    <text x="0" y="44" class="mono text-sub">QA &amp; Test Automation</text>
+    
+    <g transform="translate(0, 64)">
+      <rect width="210" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="12" cy="12" r="3.5" fill="#3fb950" />
+      <text x="24" y="16" class="mono text-meta">status: shipping stable builds</text>
+    </g>
 
-    <g transform="translate(16, 44)">
-      <!-- Animated flow dots on the connectors -->
-      <circle cx="6" r="3" fill="#58a6ff">
-        <animate attributeName="cy" values="6;31" dur="2.5s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="6" r="3" fill="#d2a8ff">
-        <animate attributeName="cy" values="38;63" dur="2.5s" begin="1.2s" repeatCount="indefinite" />
-        <animate attributeName="opacity" values="0;1;0" dur="2.5s" begin="1.2s" repeatCount="indefinite" />
-      </circle>
-
-      <circle cx="6" cy="6" r="4" fill="#388bfd" />
-      <text x="18" y="10" class="mono row-label">Unit &amp; Schema</text>
-      <text x="212" y="10" class="mono row-val" text-anchor="end">✓ 100%</text>
-      <line x1="6" y1="27" x2="6" y2="31" stroke="#30363d" stroke-width="1.5" />
-
-      <circle cx="6" cy="38" r="4" fill="#388bfd" />
-      <text x="18" y="42" class="mono row-label">API Regression</text>
-      <text x="212" y="42" class="mono row-val" text-anchor="end">✓ 42/42</text>
-      <line x1="6" y1="59" x2="6" y2="63" stroke="#30363d" stroke-width="1.5" />
-
-      <circle cx="6" cy="70" r="4" fill="#2ea043">
-        <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite" />
-      </circle>
-      <text x="18" y="74" class="mono row-label">E2E Playwright</text>
-      <text x="212" y="74" class="mono row-val" text-anchor="end">✓ PASS</text>
+    <g transform="translate(0, 96)">
+      <text x="0" y="12" class="mono text-meta">stack: Playwright · Pytest · Vitest</text>
     </g>
   </g>
 </svg>
