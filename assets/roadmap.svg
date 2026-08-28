@@ -22,6 +22,9 @@
   <g transform="translate(20, 20)">
     <rect width="250" height="110" rx="6" fill="#090d16" stroke="#30363d" stroke-width="1" />
     <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#388bfd" />
+    <rect x="-60" y="-1" width="60" height="5" rx="2.5" fill="#58a6ff" fill-opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="-60,0;250,0" dur="3s" repeatCount="indefinite" />
+    </rect>
     
     <text x="16" y="24" class="mono step-num">01 / ARCHITECTURE</text>
     <text x="16" y="46" class="sans step-title">Contract Testing</text>
@@ -30,6 +33,10 @@
     <!-- Tag Status -->
     <rect x="16" y="80" width="105" height="20" rx="10" fill="#388bfd" fill-opacity="0.15" stroke="#388bfd" stroke-width="0.8"/>
     <circle cx="26" cy="90" r="3" fill="#58a6ff" />
+    <circle cx="26" cy="90" r="3" fill="none" stroke="#58a6ff" stroke-width="1.2">
+      <animate attributeName="r" values="3;10" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.9;0" dur="2s" repeatCount="indefinite" />
+    </circle>
     <text x="34" y="94" class="mono tag-txt" fill="#58a6ff">IN PROGRESS</text>
   </g>
 
@@ -37,6 +44,9 @@
   <g transform="translate(300, 20)">
     <rect width="250" height="110" rx="6" fill="#090d16" stroke="#30363d" stroke-width="1" />
     <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#a371f7" />
+    <rect x="-60" y="-1" width="60" height="5" rx="2.5" fill="#d2a8ff" fill-opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="-60,0;250,0" dur="3s" begin="0.8s" repeatCount="indefinite" />
+    </rect>
     
     <text x="16" y="24" class="mono step-num" fill="#bc8cff">02 / BENCHMARKING</text>
     <text x="16" y="46" class="sans step-title">Performance &amp; Load</text>
@@ -45,6 +55,10 @@
     <!-- Tag Status -->
     <rect x="16" y="80" width="95" height="20" rx="10" fill="#a371f7" fill-opacity="0.15" stroke="#a371f7" stroke-width="0.8"/>
     <circle cx="26" cy="90" r="3" fill="#d2a8ff" />
+    <circle cx="26" cy="90" r="3" fill="none" stroke="#d2a8ff" stroke-width="1.2">
+      <animate attributeName="r" values="3;10" dur="2s" begin="0.6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="0.6s" repeatCount="indefinite" />
+    </circle>
     <text x="34" y="94" class="mono tag-txt" fill="#d2a8ff">EXPLORING</text>
   </g>
 
@@ -52,6 +66,9 @@
   <g transform="translate(580, 20)">
     <rect width="250" height="110" rx="6" fill="#090d16" stroke="#30363d" stroke-width="1" />
     <rect x="0" y="0" width="250" height="3" rx="1.5" fill="#2ea043" />
+    <rect x="-60" y="-1" width="60" height="5" rx="2.5" fill="#3fb950" fill-opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="-60,0;250,0" dur="3s" begin="1.6s" repeatCount="indefinite" />
+    </rect>
     
     <text x="16" y="24" class="mono step-num" fill="#3fb950">03 / CI/CD PIPELINE</text>
     <text x="16" y="46" class="sans step-title">Quality Matrix Gates</text>
@@ -60,6 +77,10 @@
     <!-- Tag Status -->
     <rect x="16" y="80" width="95" height="20" rx="10" fill="#2ea043" fill-opacity="0.15" stroke="#2ea043" stroke-width="0.8"/>
     <circle cx="26" cy="90" r="3" fill="#3fb950" />
+    <circle cx="26" cy="90" r="3" fill="none" stroke="#3fb950" stroke-width="1.2">
+      <animate attributeName="r" values="3;10" dur="2s" begin="1.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.9;0" dur="2s" begin="1.2s" repeatCount="indefinite" />
+    </circle>
     <text x="34" y="94" class="mono tag-txt" fill="#3fb950">ACTIVE GATE</text>
   </g>
 </svg>
