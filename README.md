@@ -22,7 +22,15 @@
 
 ---
 
-### 🧪 CURRENT FOCUS
+<p align="center">
+  <em>QA engineer turning ambiguity into evidence — building test pipelines that fail fast, audit deeply, and ship with confidence.</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENT_FOCUS-2ea043?style=for-the-badge" alt="Current Focus" />
+</p>
 
 <table>
 <tr>
@@ -58,7 +66,9 @@
 
 ---
 
-### 🚀 SELECTED WORK
+<p align="center">
+  <img src="https://img.shields.io/badge/SELECTED_WORK-388bfd?style=for-the-badge" alt="Selected Work" />
+</p>
 
 <table>
 <tr>
@@ -116,7 +126,9 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ---
 
-### 🛠️ TECHNICAL STACK
+<p align="center">
+  <img src="https://img.shields.io/badge/TECHNICAL_STACK-a371f7?style=for-the-badge" alt="Technical Stack" />
+</p>
 
 <table>
 <tr>
@@ -146,7 +158,9 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ---
 
-### 📊 ACTIVITY & REPOSITORY STATS
+<p align="center">
+  <img src="https://img.shields.io/badge/ACTIVITY_%26_REPO_STATS-58a6ff?style=for-the-badge" alt="Activity & Repo Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1ntz0&theme=github_dark" alt="GitHub Profile Details & Contributions" width="100%" />
@@ -166,7 +180,9 @@ Python · python-telegram-bot · Pillow · SQLite
 
 ---
 
-### 🎯 LEARNING ROADMAP
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARNING_ROADMAP-238636?style=for-the-badge" alt="Learning Roadmap" />
+</p>
 
 <p align="center">
   <img src="./assets/roadmap.svg" alt="Arrofi Zein - Learning Roadmap Cards" width="100%" />
@@ -180,4 +196,8 @@ Python · python-telegram-bot · Pillow · SQLite
   <a href="https://www.linkedin.com/in/arrofizeinabdillah66/"><img src="https://img.shields.io/badge/LinkedIn-Arrofi_Zein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:arrofi.zein12@gmail.com"><img src="https://img.shields.io/badge/Email-Arrofi_Zein-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>Always shipping. Always verifying.</sub>
 </p>
