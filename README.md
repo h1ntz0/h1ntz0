@@ -163,19 +163,7 @@ Python · python-telegram-bot · Pillow · SQLite
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1ntz0&theme=github_dark" alt="GitHub Profile Details & Contributions" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=h1ntz0&theme=github_dark" alt="GitHub Stats Summary" width="48%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h1ntz0&theme=github_dark" alt="Languages Donut Chart" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=h1ntz0&theme=github_dark&utcOffset=7" alt="Commit Time Distribution" width="48%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h1ntz0&theme=github_dark" alt="Most Commit Language" width="48%" />
+  <img src="./assets/stats.svg" alt="GitHub Activity & Repository Stats" width="100%" />
 </p>
 
 ---

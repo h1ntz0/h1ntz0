@@ -1,0 +1,110 @@
+<svg width="700" height="668" viewBox="0 0 700 668" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="panel-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e18" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+
+    <!-- Accent Gradient (flowing border) -->
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2ea043" />
+      <stop offset="50%" stop-color="#388bfd" />
+      <stop offset="100%" stop-color="#a371f7" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#30363d" stroke-width="0.5" stroke-opacity="0.2"/>
+    </pattern>
+
+    <!-- Panel clip -->
+    <clipPath id="panel-clip">
+      <rect width="700" height="668" rx="14" />
+    </clipPath>
+
+    <!-- Card clips -->
+    <clipPath id="clip-a"><rect x="8" y="12" width="684" height="196" rx="8" /></clipPath>
+    <clipPath id="clip-b"><rect x="8" y="228" width="330" height="194" rx="8" /></clipPath>
+    <clipPath id="clip-c"><rect x="362" y="228" width="330" height="194" rx="8" /></clipPath>
+    <clipPath id="clip-d"><rect x="8" y="442" width="330" height="194" rx="8" /></clipPath>
+    <clipPath id="clip-e"><rect x="362" y="442" width="330" height="194" rx="8" /></clipPath>
+
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
+      .live { fill: #7ee787; font-size: 11px; font-weight: 700; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <!-- Panel -->
+  <rect width="700" height="668" rx="14" fill="url(#panel-bg)" stroke="#30363d" stroke-width="1" />
+  <rect width="700" height="668" rx="14" fill="url(#grid)" />
+
+  <!-- Animated flowing border -->
+  <rect x="2" y="2" width="696" height="664" rx="12" fill="none" stroke="url(#accent-grad)" stroke-width="2"
+        stroke-dasharray="14 8">
+    <animate attributeName="stroke-dashoffset" values="0;-220" dur="6s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Shimmer sweep across panel -->
+  <g clip-path="url(#panel-clip)">
+    <rect x="-140" y="0" width="90" height="668" fill="#ffffff" fill-opacity="0.04">
+      <animateTransform attributeName="transform" type="translate" values="-140,0;780,0" dur="5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- LIVE indicator (top-right) -->
+  <g>
+    <circle cx="648" cy="34" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="660" y="38" class="mono live">LIVE DATA</text>
+  </g>
+
+  <!-- Card A: profile-details -->
+  <g clip-path="url(#clip-a)">
+    <rect x="8" y="12" width="684" height="196" fill="#0d1117" />
+    <image xlink:href="https://camo.githubusercontent.com/98f94b78b32441912d24904f64bef5f39e3fa783c23b4a043f53c0c4f70d2835/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d68316e747a30267468656d653d6769746875625f6461726b" x="8" y="12" width="684" height="196" preserveAspectRatio="xMidYMid meet" />
+    <!-- bottom scan line -->
+    <rect x="8" y="194" width="684" height="2" fill="#388bfd" fill-opacity="0.5">
+      <animate attributeName="x" values="8;692;8" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="width" values="80;80;80" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card B: stats -->
+  <g clip-path="url(#clip-b)">
+    <rect x="8" y="228" width="330" height="194" fill="#0d1117" />
+    <image xlink:href="https://camo.githubusercontent.com/f16794f6c42485aabaaeeb73008a859d9301e52b65613ddb7708f3cb42cc1704/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d68316e747a30267468656d653d6769746875625f6461726b" x="8" y="228" width="330" height="194" preserveAspectRatio="xMidYMid meet" />
+    <rect x="8" y="228" width="2" height="194" fill="#2ea043" fill-opacity="0.6">
+      <animate attributeName="height" values="0;194" dur="3s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card C: repos-per-language -->
+  <g clip-path="url(#clip-c)">
+    <rect x="362" y="228" width="330" height="194" fill="#0d1117" />
+    <image xlink:href="https://camo.githubusercontent.com/f6d55c4870748d37f1eaf9dcc379a8cd90c2eb468c702c2b0003a6f6f16668d8/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d68316e747a30267468656d653d6769746875625f6461726b" x="362" y="228" width="330" height="194" preserveAspectRatio="xMidYMid meet" />
+    <rect x="362" y="228" width="2" height="194" fill="#a371f7" fill-opacity="0.6">
+      <animate attributeName="height" values="0;194" dur="3s" begin="0.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card D: productive-time -->
+  <g clip-path="url(#clip-d)">
+    <rect x="8" y="442" width="330" height="194" fill="#0d1117" />
+    <image xlink:href="https://camo.githubusercontent.com/8902d1698b5e3b41581cacd8bd19499aa50d28c9c70a8d5f0652d91624c3da85/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d68316e747a30267468656d653d6769746875625f6461726b267574634f66667365743d37" x="8" y="442" width="330" height="194" preserveAspectRatio="xMidYMid meet" />
+    <rect x="8" y="442" width="2" height="194" fill="#388bfd" fill-opacity="0.6">
+      <animate attributeName="height" values="0;194" dur="3s" begin="1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <!-- Card E: most-commit-language -->
+  <g clip-path="url(#clip-e)">
+    <rect x="362" y="442" width="330" height="194" fill="#0d1117" />
+    <image xlink:href="https://camo.githubusercontent.com/b1a6468730908bcf25803156f6c03cbf899df0f30f5fe66f30fb9714202990cc/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d68316e747a30267468656d653d6769746875625f6461726b" x="362" y="442" width="330" height="194" preserveAspectRatio="xMidYMid meet" />
+    <rect x="362" y="442" width="2" height="194" fill="#2ea043" fill-opacity="0.6">
+      <animate attributeName="height" values="0;194" dur="3s" begin="1.5s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
