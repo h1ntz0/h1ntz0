@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Terminal Test Runner Simulation" width="100%" />
+  <img src="./assets/header.svg" alt="Arrofi Zein - QA Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ### 👨‍💻 Engineering Profile
 
-Quality Assurance &amp; Test Automation Engineer based in Indonesia with a strong focus on Linux and terminal-first workflows. I specialize in building deterministic test suites, strict OpenAPI contract validations, and automated CI/CD quality pipelines.
+Quality Assurance &amp; Test Automation Engineer at **WISECON (Wisesa Consulting Indonesia)** based in Jakarta, with a passion for Linux and terminal-first engineering. Specializing in automated API contract verification, end-to-end browser suites, and reliable CI/CD quality gates.
 
-- 🧪 **Core Focus:** End-to-End Regression (Playwright), API Contracts (Pytest), Accessibility (axe-core WCAG 2.2 AA)
-- 🐚 **Environment:** Linux / Zsh / Headless CI Workflows
-- 🎯 **Quality Standards:** Strict Schema Validation, Zero-Regression Tolerance, Fast Feedback Loops
-- 🌱 **Active Exploration:** Contract Testing (Pact) &amp; Distributed Load Testing (k6)
+- 🧪 **Testing Specialties:** Automated End-to-End Regression (Playwright, Pytest), API Verification (Postman, OpenAPI)
+- 🐚 **Environment &amp; Systems:** Linux / Zsh Native, Headless Automation, Docker Workflows
+- 🎯 **Engineering Standard:** Strict Schema Validation, Deterministic Test Suites, Zero-Regression Delivery
+- 🌱 **Continuous Exploration:** Consumer-Driven Contracts (Pact) &amp; Distributed Performance Benchmarking (k6)
 
 ---
 
