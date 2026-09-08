@@ -24,45 +24,39 @@ Quality Assurance &amp; Test Automation Engineer based in Indonesia with a stron
 
 ### 🚀 Selected Work & Repositories
 
-- **[api-contract-regression-tester](https://github.com/h1ntz0/api-contract-regression-tester)**  
-  *Autonomous OpenAPI Spec & Payload Regression Engine*  
-  Auto-parses Swagger/OpenAPI specifications into positive/negative test matrices with deep schema validation and standalone interactive HTML reporting.  
-  `Python` · `Pytest` · `Requests` · `OpenAPI`
-
-- **[Agents-Telegram](https://github.com/h1ntz0/Agents-Telegram)**  
-  *Autonomous Self-Hosted AI Agent Framework*  
-  Zero-friction Telegram bot framework with dynamic multi-agent SDLC workflow, automated planning, dynamic model routing, and asynchronous task execution.  
-  `Python` · `python-telegram-bot` · `AsyncIO`
-
-- **[Ranime](https://github.com/h1ntz0/Ranime)**  
-  *Local-First Anime Discovery & Tracking Platform Backend*  
-  REST and GraphQL backend with strict schema enforcement, JWT authentication, Vitest test suites, and containerized PostgreSQL / Redis setups.  
-  `TypeScript` · `Fastify 5` · `GraphQL` · `PostgreSQL` · `Vitest` · `Docker`
-
-- **[my-portfolio](https://github.com/h1ntz0/my-portfolio)**  
-  *Evidence-Driven QA Showcase & Web Architecture*  
-  Playwright end-to-end test suites verifying dynamic routing and responsive layouts, with integrated `axe-core` accessibility validation.  
-  `TypeScript` · `Playwright` · `Next.js 15` · `Tailwind CSS` · `axe-core`
-
-- **[Todo-cli](https://github.com/h1ntz0/Todo-cli)**  
-  *Minimalist Terminal Task Management Engine*  
-  Lightweight CLI task manager built with Golang for terminal-first productivity, atomic file persistence, and zero runtime dependencies.  
-  `Go (Golang)` · `CLI` · `Terminal Native`
-
-- **[telegram-sticker-bot](https://github.com/h1ntz0/telegram-sticker-bot)**  
-  *Automated Image Transformation & Sticker Pipeline*  
-  Asynchronous image processor with dynamic aspect-ratio compensation, alpha border generation, and persistent SQLite session tracking.  
-  `Python` · `Pillow` · `SQLite`
+<p align="center">
+  <a href="https://github.com/h1ntz0/api-contract-regression-tester"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=api-contract-regression-tester&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="api-contract-regression-tester" /></a>&nbsp;
+  <a href="https://github.com/h1ntz0/Agents-Telegram"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Agents-Telegram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Agents-Telegram" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/h1ntz0/Ranime"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Ranime&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ranime" /></a>&nbsp;
+  <a href="https://github.com/h1ntz0/my-portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="my-portfolio" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/h1ntz0/Todo-cli"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Todo-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Todo-cli" /></a>&nbsp;
+  <a href="https://github.com/h1ntz0/telegram-sticker-bot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=telegram-sticker-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="telegram-sticker-bot" /></a>
+</p>
 
 ---
 
 ### 🛠️ Technical Stack & Tooling
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=playwright,pytest,selenium,postman,vitest,ts,js,py,go,bash,nodejs,githubactions,docker,linux,postgres,sqlite,redis&theme=dark" alt="Technical Stack" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Testing &amp; QA</strong><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=playwright,pytest,selenium,postman,vitest&theme=dark" alt="Testing" /></a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Languages</strong><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,go,bash,nodejs&theme=dark" alt="Languages" /></a>
+    </td>
+    <td align="center" width="33%">
+      <strong>Infra &amp; Data</strong><br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,docker,linux,postgres,sqlite,redis&theme=dark" alt="Infrastructure" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
