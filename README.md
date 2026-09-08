@@ -66,7 +66,7 @@ Quality Assurance &amp; Test Automation Engineer at **WISECON (Wisesa Consulting
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Real-Time Metrics
 
 <p align="center">
   <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
@@ -80,12 +80,4 @@ Quality Assurance &amp; Test Automation Engineer at **WISECON (Wisesa Consulting
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h1ntz0&theme=github_dark" alt="GitHub Profile Details & Contributions" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" alt="Snake eating my contribution graph" width="100%" />
 </p>
