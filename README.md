@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://arrofizein.vercel.app"><img src="https://img.shields.io/badge/Portfolio-arrofizein.vercel.app-21262d?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/arrofizeinabdillah66/"><img src="https://img.shields.io/badge/LinkedIn-Arrofi_Zein-21262d?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:arrofi.zein12@gmail.com"><img src="https://img.shields.io/badge/Email-arrofi.zein12%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=f85149" alt="Email" /></a>&nbsp;
-  <a href="https://github.com/h1ntz0?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-21262d?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub Repos" /></a>
+  <a href="https://arrofizein.vercel.app"><img src="https://img.shields.io/badge/Portfolio-arrofizein.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/arrofizeinabdillah66/"><img src="https://img.shields.io/badge/LinkedIn-Arrofi_Zein-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:arrofi.zein12@gmail.com"><img src="https://img.shields.io/badge/Email-arrofi.zein12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/h1ntz0?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
 </p>
 
 ---
