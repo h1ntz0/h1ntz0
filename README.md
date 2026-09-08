@@ -25,34 +25,40 @@ Quality Assurance &amp; Test Automation Engineer based in Indonesia with a stron
 ### 🚀 Selected Work & Repositories
 
 <p align="center">
-  <a href="https://github.com/h1ntz0/api-contract-regression-tester"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=api-contract-regression-tester&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="api-contract-regression-tester" /></a>&nbsp;
-  <a href="https://github.com/h1ntz0/Agents-Telegram"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Agents-Telegram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Agents-Telegram" /></a>
+  <a href="https://github.com/h1ntz0/api-contract-regression-tester"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=api-contract-regression-tester&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="api-contract-regression-tester" /></a>
+  &nbsp;
+  <a href="https://github.com/h1ntz0/Agents-Telegram"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Agents-Telegram&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="Agents-Telegram" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/h1ntz0/Ranime"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Ranime&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Ranime" /></a>&nbsp;
-  <a href="https://github.com/h1ntz0/my-portfolio"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="my-portfolio" /></a>
+  <a href="https://github.com/h1ntz0/Ranime"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Ranime&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="Ranime" /></a>
+  &nbsp;
+  <a href="https://github.com/h1ntz0/my-portfolio"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=my-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="my-portfolio" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/h1ntz0/Todo-cli"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Todo-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Todo-cli" /></a>&nbsp;
-  <a href="https://github.com/h1ntz0/telegram-sticker-bot"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=telegram-sticker-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="telegram-sticker-bot" /></a>
+  <a href="https://github.com/h1ntz0/Todo-cli"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=Todo-cli&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="Todo-cli" /></a>
+  &nbsp;
+  <a href="https://github.com/h1ntz0/telegram-sticker-bot"><img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=h1ntz0&repo=telegram-sticker-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" alt="telegram-sticker-bot" /></a>
 </p>
 
 ---
 
 ### 🛠️ Technical Stack & Tooling
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
-      <strong>Testing &amp; QA</strong><br/><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=playwright,pytest,selenium,postman,vitest&theme=dark" alt="Testing" /></a>
+    <td align="center" width="33%" valign="top">
+      <strong>QA &amp; Automation</strong>
+      <br/><br/>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=playwright,pytest,selenium,postman,vitest&theme=dark" alt="Testing Tools" /></a>
     </td>
-    <td align="center" width="33%">
-      <strong>Languages</strong><br/><br/>
+    <td align="center" width="33%" valign="top">
+      <strong>Languages &amp; Core</strong>
+      <br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,go,bash,nodejs&theme=dark" alt="Languages" /></a>
     </td>
-    <td align="center" width="33%">
-      <strong>Infra &amp; Data</strong><br/><br/>
+    <td align="center" width="33%" valign="top">
+      <strong>Infra &amp; Systems</strong>
+      <br/><br/>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions,docker,linux,postgres,sqlite,redis&theme=dark" alt="Infrastructure" /></a>
     </td>
   </tr>
