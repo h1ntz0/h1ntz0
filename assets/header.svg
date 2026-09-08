@@ -1,48 +1,78 @@
-<svg width="850" height="180" viewBox="0 0 850 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="200" viewBox="0 0 850 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="header-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace; }
-      .text-prompt { fill: #58a6ff; font-size: 13px; font-weight: 600; }
-      .text-cmd { fill: #f0f6fc; font-size: 13px; }
-      .text-pass { fill: #3fb950; font-size: 12px; font-weight: 600; }
-      .text-file { fill: #c9d1d9; font-size: 12px; }
-      .text-meta { fill: #8b949e; font-size: 11px; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .kicker { fill: #58a6ff; font-size: 11px; font-weight: 700; letter-spacing: 2px; }
+      .title { fill: #ffffff; font-size: 34px; font-weight: 800; letter-spacing: -0.5px; }
+      .tagline { fill: #8b949e; font-size: 13.5px; font-weight: 400; }
+      .badge-txt { fill: #c9d1d9; font-size: 11px; font-weight: 600; }
+      .status-txt { fill: #3fb950; font-size: 11px; font-weight: 700; letter-spacing: 0.5px; }
+      .meta-label { fill: #8b949e; font-size: 10.5px; font-weight: 600; }
+      .meta-val { fill: #f0f6fc; font-size: 12px; font-weight: 700; }
     </style>
   </defs>
 
-  <rect width="850" height="180" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <!-- Container Base -->
+  <rect width="850" height="200" rx="10" fill="url(#header-bg)" stroke="#30363d" stroke-width="1" />
 
-  <rect width="850" height="30" rx="8" fill="#161b22" />
-  <rect y="22" width="850" height="8" fill="#161b22" />
-  <line x1="0" y1="30" x2="850" y2="30" stroke="#30363d" stroke-width="1" />
+  <!-- Left: Identity & Specialization -->
+  <g transform="translate(40, 36)">
+    <!-- Role Kicker -->
+    <text x="0" y="10" class="mono kicker">SOFTWARE QUALITY ASSURANCE &amp; TEST AUTOMATION</text>
 
-  <circle cx="18" cy="15" r="4" fill="#f85149" />
-  <circle cx="32" cy="15" r="4" fill="#e3b341" />
-  <circle cx="46" cy="15" r="4" fill="#2ea043" />
-  <text x="70" y="19" class="mono text-meta">zsh — test-suite-runner — 80x24</text>
+    <!-- Name -->
+    <text x="0" y="48" class="sans title">Arrofi Zein</text>
 
-  <g transform="translate(24, 48)">
-    <text x="0" y="14" class="mono text-prompt">$ <tspan class="text-cmd">pytest --contract &amp;&amp; playwright test</tspan></text>
+    <!-- Professional Summary / Tagline -->
+    <text x="0" y="78" class="sans tagline">Architecting resilient test suites, OpenAPI contract validations, and automated CI/CD pipelines.</text>
 
-    <g transform="translate(0, 32)">
-      <text x="0" y="12" class="mono text-pass">PASS</text>
-      <text x="46" y="12" class="mono text-file">tests/api/test_schema.py</text>
-      <text x="330" y="12" class="mono text-meta">(14 passed)</text>
+    <!-- Professional Skill Badges -->
+    <g transform="translate(0, 98)">
+      <g transform="translate(0, 0)">
+        <rect width="168" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="10" y="17" class="mono badge-txt">Playwright · Pytest · Vitest</text>
+      </g>
 
-      <text x="0" y="32" class="mono text-pass">PASS</text>
-      <text x="46" y="32" class="mono text-file">tests/e2e/navigation.spec.ts</text>
-      <text x="330" y="32" class="mono text-meta">(8 passed)</text>
+      <g transform="translate(178, 0)">
+        <rect width="180" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="10" y="17" class="mono badge-txt">CI/CD Gates · axe-core a11y</text>
+      </g>
 
-      <text x="0" y="52" class="mono text-pass">PASS</text>
-      <text x="46" y="52" class="mono text-file">tests/a11y/wcag_audit.spec.ts</text>
-      <text x="330" y="52" class="mono text-meta">(0 violations)</text>
+      <g transform="translate(368, 0)">
+        <rect width="138" height="26" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1" />
+        <text x="10" y="17" class="mono badge-txt">Linux / Terminal Native</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right: Executive Status Card for Recruiters/HRD -->
+  <g transform="translate(600, 32)">
+    <rect width="210" height="136" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+
+    <!-- Availability Status -->
+    <g transform="translate(16, 20)">
+      <circle cx="6" cy="6" r="4" fill="#3fb950" />
+      <text x="18" y="10" class="mono status-txt">OPEN TO OPPORTUNITIES</text>
     </g>
 
-    <g transform="translate(0, 104)">
-      <text x="0" y="12" class="mono text-prompt">$ <tspan class="text-meta">ready for deployment</tspan></text>
-      <rect x="180" y="1" width="7" height="13" fill="#58a6ff">
-        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
-      </rect>
+    <line x1="16" y1="42" x2="194" y2="42" stroke="#21262d" stroke-width="1" />
+
+    <!-- Location -->
+    <g transform="translate(16, 58)">
+      <text x="0" y="0" class="sans meta-label">Location</text>
+      <text x="0" y="16" class="sans meta-val">Indonesia (Remote / Hybrid)</text>
+    </g>
+
+    <!-- Focus -->
+    <g transform="translate(16, 96)">
+      <text x="0" y="0" class="sans meta-label">Primary Expertise</text>
+      <text x="0" y="16" class="sans meta-val">QA &amp; Automation Engineering</text>
     </g>
   </g>
 </svg>
